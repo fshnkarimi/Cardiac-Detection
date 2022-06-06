@@ -10,7 +10,7 @@ Some example images from dataset :<br/> ![alt text](https://github.com/fshnkarim
 
 We provide bounding boxes for around 500 images of the RSNA pneumonia detection challenge dataset.
 
-New Dataset: <br/> ![alt text](https://github.com/fshnkarimi/Cardiac-Detection/blob/main/Images/images_1.png.png?raw=true)
+New Dataset: <br/> ![alt text](https://github.com/fshnkarimi/Cardiac-Detection/blob/main/Images/images_1.png?raw=true)
 
 We will again convert the images to npy files for efficient storage and faster data loading.
 
@@ -28,7 +28,7 @@ Thus we need to change the in_channel parameter from 3 to 1.
 
 Loss function: We are going to use the L2 loss (Mean Squared Error), as we are dealing with continuous values.
 
-After applying data augmentation and normalization: <br/> ![alt text](https://github.com/fshnkarimi/Cardiac-Detection/blob/main/Images/images_2.png.png?raw=true)
+After applying data augmentation and normalization: <br/> ![alt text](https://github.com/fshnkarimi/Cardiac-Detection/blob/main/Images/images_2.png?raw=true)
 
-Final result: <br/> ![alt text](https://github.com/fshnkarimi/Cardiac-Detection/blob/main/Images/images_3.png.png?raw=true)
+Final result: <br/> ![alt text](https://github.com/fshnkarimi/Cardiac-Detection/blob/main/Images/images_3.png?raw=true)
 
